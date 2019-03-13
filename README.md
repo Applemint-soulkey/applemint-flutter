@@ -14,6 +14,8 @@ Peppermint와 통신하여 자주 방문하는 사이트의 미방문 페이지�
 
 
 ## History
+#### 2019-03-13
+- v1.0 버전 Release
 #### 2019-02-20
 - README.md 추가
 - 신규 Repository 이관
