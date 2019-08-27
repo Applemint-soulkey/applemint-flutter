@@ -1,7 +1,7 @@
 # Applemint
 
 Mobile Client for __Peppermint__
-> Notice: This App is under-develop and for personal purpose. Please don't use thie app :-<
+> **This Project is deprecated**
 
 ## Introduction
 Peppermint와 통신하여 자주 방문하는 사이트의 미방문 페이지를 보기 위한 Mobile Client Application
